@@ -1,0 +1,2 @@
+# FamBot
+Discord Bot
