@@ -1,0 +1,26 @@
+{
+  "discord": {
+    "email": "fam-bot#5725",
+    "password": "MjI1NDIxODIyNTcxNzA4NDE4.CrsqBA.pZI-v_J7Cc4A8k4D4FHfly2qbj8"
+    },
+  "keywords": {
+    "Help": "!commands",
+    "Giphy": "!giphy",
+    "Imgur": "!img",
+    "Urban": "!define"
+  },
+  "giphy_key": "dc6zaTOxFJmzC",
+  "imgur_key": "",
+  "twitch": {
+    "client_id": "",
+    "username": "",
+    "password": "",
+    "scope": "user_read"
+  },
+  "database": {
+    "host": "127.0.0.1",
+    "database": "",
+    "user": "",
+    "password": ""
+  }
+}
