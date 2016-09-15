@@ -5,7 +5,7 @@ var env = require('./config.json'),
 var ins = new FamBot;
 var discordjs = new Discord.Client();
 
-discordjs.on("ready", function () {
+discordjs.on('ready', function () {
     console.log("Ready to begin! Serving in " + discordjs.channels.length + " channels");
 });
 
@@ -29,4 +29,4 @@ discordjs.on('disconnected', function () {
     process.exit(1);
 });
 
-discordjs.login(env.discord.email, env.discord.password);
+discordjs.login(env.bot.token);

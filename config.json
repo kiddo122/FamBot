@@ -1,7 +1,7 @@
 {
   "discord": {
-    "email": "fam-bot#5725",
-    "password": "MjI1NDIxODIyNTcxNzA4NDE4.CrsqBA.pZI-v_J7Cc4A8k4D4FHfly2qbj8"
+    "email": "kaiboma@gmail.com",
+    "password": "Kaiboma12!"
     },
   "keywords": {
     "Help": "!commands",
@@ -22,5 +22,8 @@
     "database": "",
     "user": "",
     "password": ""
+  },
+  "bot": {
+    "token": "MjI1NDIxODIyNTcxNzA4NDE4.CrteXQ.zatBpSwxnrm_swEPzvR9RfwsDRg"
   }
 }
