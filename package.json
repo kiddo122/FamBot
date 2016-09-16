@@ -11,9 +11,9 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^3.6.2",
-    "imgur-search": "^1.0.1",
+    "discord.js": "^9.2.0",
     "giphy-wrapper": "ptte/node-giphy",
+    "imgur-search": "^1.0.1",
     "urban": "^0.2.4"
   },
   "keywords": [

@@ -7,6 +7,7 @@ var ImgurModule = function () {
 
 ImgurModule.prototype.Message = function(keyword, message, callback)
 {
+    console.log('imgur');
     var imgurIndex = message.content.indexOf(keyword);
     var term = message.content.substring(imgurIndex + keyword.length).trim().replace(/\s/g, "+");
 
